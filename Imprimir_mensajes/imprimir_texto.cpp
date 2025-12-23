@@ -28,14 +28,14 @@ int main() {
 // }
 
 
-/*
-int main(){
-    std::cout<<"Nombre: Luigi"<<'\n';
-    std::cout<<"Estado: Practicando C++"<<'\n';
-    std::cout<<"Lenguaje: C++";
-    return 0;
-}
-*/
+
+// int main(){
+//     std::cout<<"Nombre: Luigi"<<'\n';
+//     std::cout<<"Estado: Practicando C++"<<'\n';
+//     std::cout<<"Lenguaje: C++";
+//     return 0;
+// }
+
 
 
 
