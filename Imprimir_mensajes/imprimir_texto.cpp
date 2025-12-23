@@ -19,14 +19,14 @@ int main() {
 //Incluir el paquete iostream para imprimir mensajes
 #include <iostream>
 
-/*
-int main(){
-    std::cout<<"======================="<<'\n';
-    std::cout<<"  BIENVENIDO AL SISTEMA"<<'\n';
-    std::cout<<"=======================";
-    return 0;
-}
-*/
+
+// int main(){
+//     std::cout<<"======================="<<'\n';
+//     std::cout<<"  BIENVENIDO AL SISTEMA"<<'\n';
+//     std::cout<<"=======================";
+//     return 0;
+// }
+
 
 /*
 int main(){
@@ -38,22 +38,22 @@ int main(){
 */
 
 
-/*
-int main(){
-    std::cout<<"El profesor dijo: \"Practiquen C++ todos los dias\""; <--- Asi podemos escapar comillas en c++
-    return 0;
-}
-*/
+
+// int main(){
+//     std::cout<<"El profesor dijo: \"Practiquen C++ todos los dias\""; <--- Asi podemos escapar comillas en c++
+//     return 0;
+//}
 
 
 
 
-/*
-int main(){
-    std::cout<<"Linea uno"<<std::endl; <--- Otra manera de hacer espacion en c++
-    std::cout<<"Linea dos"<<std::endl;
-    return 0;
-}
-*/
+
+
+// int main(){
+//     std::cout<<"Linea uno"<<std::endl; <--- Otra manera de hacer espacion en c++
+//     std::cout<<"Linea dos"<<std::endl;
+//     return 0;
+//}
+
 
 
